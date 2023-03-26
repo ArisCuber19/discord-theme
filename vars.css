@@ -7,12 +7,12 @@ theme-dark,
 	--dracula-tertiary: #20222c;
 	--dracula-tertiary-alpha: rgba(32, 34, 44, 0.6);
 	--dracula-primary-light: #44475a;
-	--dracula-accent: #93a2f9;
-	--dracula-accent-alpha: #6e7abd;
+	--dracula-accent: #92b9fc;
+	--dracula-accent-alpha: #14268a;
 	--dracula-accent-alpha-alt: rgba(147, 147, 249, 0.271);
 	--dracula-accent-alpha-alt2: rgba(147, 157, 249, 0.43);
-	--dracula-accent-dark: #6e7aba;
-	--dracula-accent-light: #a5b2ff;
+	--dracula-accent-dark: #7798d2;
+	--dracula-accent-light: #a3c3fa;
 
 	/* discord variables */
 	--background-primary: var(--dracula-primary);
