@@ -11,22 +11,6 @@
 
 ---
 
-## Installation
-
-- ### [Powercord](https://github.com/powercord-org/powercord)
-
-  - clone the repo `cd powercord/src/Powercord/themes && git clone https://github.com/fawni/dracula`
-  - enable dracula by typing `[p]theme enable dracula` ([Theme Toggler](https://github.com/redstonekasi/theme-toggler))
-
-- ### [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
-
-  - download the theme file [here](https://betterdiscord.app/Download?id=233)
-  - place it in the BetterDiscord themes folder
-  - enable dracula in the themes tab
-
-- ### [Vencord](https://github.com/Vendicated/Vencord)
-  - go to vencord themes tab
-  - paste `https://raw.githubusercontent.com/fawni/dracula/main/BetterDiscord/dracula.theme.css` into the box
 
 ## Credits
 
