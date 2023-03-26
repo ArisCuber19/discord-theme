@@ -13,7 +13,7 @@
 
 ## Credits
 
-- Fawni's original theme! (https://slowstab.github.io/dracula/)
+- [Fawni](https://github.com/fawni)'s original theme! (https://slowstab.github.io/dracula/)
 
 - [LuckFire](https://github.com/LuckFire) for [Better Channel Indicators](https://github.com/LuckFire/BetterChannelIndicators), [Nicer User Connections](https://github.com/LuckFire/Nicer-User-Connections), [Better Quotes](https://github.com/LuckFire/Midnight-Mars/blob/main/src/addons/better-quotes.scss) and [Text Status Indicators](https://github.com/LuckFire/Midnight-Mars/blob/main/src/addons/text-status-indicators.css) addons
 - [Asteria](https://github.com/Asteria5675/) for [Dusk to Dawn Settings](https://github.com/Asteria5675/BetterDiscordThemes/blob/master/SourceCodes/src/dd.css) addon
