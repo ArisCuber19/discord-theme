@@ -1,4 +1,4 @@
-<h1 align="center">Discord Theme based on Dracula by fawni </h1>
+<h1 align="center">Discord Theme based on Dracula by [Fawni](https://github.com/fawni)</h1>
 <p align="center">
   <a href="#theme">overview</a> |
   <a href="#credits">credits</a>
